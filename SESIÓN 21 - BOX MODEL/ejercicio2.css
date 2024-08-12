@@ -1,0 +1,22 @@
+.general{
+border: 6px rgb(212, 138, 149);
+background-color: rgb(180, 132, 125);
+}
+.titulo{
+    text-align: center;
+    color: rgb(14, 4, 20);
+    font-family: monospace;
+}
+div {
+    width: 80%;
+    border: 4px rgb(97, 2, 2) solid;
+    margin: auto;
+    padding: 15px;
+
+}
+p {
+    border: 3px brown dashed;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: rgb(213, 203, 223);
+}
